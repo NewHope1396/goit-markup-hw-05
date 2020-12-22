@@ -694,9 +694,8 @@ footer .logo {
 
 }
 
-.vector{
-  display: block;
-
+.modal-close svg{
   width: 11px;
   height: 11px;
 }
+
